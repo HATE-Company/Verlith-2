@@ -1,0 +1,26 @@
+.footer{
+    background-color: #001220;
+    color: gray;
+}
+.footer-col{
+    padding: 0 40px;
+    margin: 10px;
+}
+
+.footer-col h3{
+    color: wheat;
+    font-size: 17px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #ec9355;
+}
+
+.footer-col ul, i{
+    padding-top: 15px;
+}
+
+.footer i{
+    margin: 3px;
+}
+.footer li{
+    padding: 3px;
+}
